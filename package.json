@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Andy Eades",
+    "url": "http://www.elevateweb.co.uk"
+  },
+  "bugs": {
+    "url": "https://github.com/igorlino/elevatezoom-plus/issues"
+  },
+  "contributors": [
+    {
+      "name": "Igor Lino",
+      "email": "igorlino@github.com",
+      "url": "https://github.com/igorlino"
+    }
+  ],
+  "demo": "",
+  "dependencies": {},
+  "description": "A jQuery carousel plugin",
+  "devDependencies": {
+    
+  },
+  "directories": {},
+  "license": "MIT",
+  "name": "gilbitron-caroufredsel",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "jquery": ">=2.1.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "title": "caroufredsel",
+  "version": "1.1.20"
+}
